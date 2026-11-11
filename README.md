@@ -1,1 +1,2 @@
-# equipo-1-Qu-rum
+# Equipo 3 - Agenda de contactos
+## Integrantes
