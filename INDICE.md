@@ -1,5 +1,7 @@
-# Indice de recetas
-
+# Indice
+- Crema de Zapallo (Jose)
+- Sopa de Mani (Jose)
+- Tacos de Carne Asada (Jose)
 - Silpancho (Israel)
 - Sopa de mani (Israel)
 - Pique macho (Israel)
